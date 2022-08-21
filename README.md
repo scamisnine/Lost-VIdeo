@@ -1,37 +1,30 @@
-## Welcome to GitHub Pages
+## 你好，欢迎来访
 
-You can use the [editor on GitHub](https://github.com/scamisnine/Lost-VIdeo/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+本站分为三个大区。
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## 重口区
 
-### Markdown
+## 整活区
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## 猎奇区
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+### 阅览本站注意以下规则
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
+## 观看猎奇，重口视频注意（官方聲明）
 
-**Bold** and _Italic_ and `Code` text
+請注意，视频的內容過於重口味，可能會使人產生惡心、頭暈等不適症狀，亦有可能使閣下情緒有負面影響，因此我們認為這個视频不適合任何人仕觀看。
 
-[Link](url) and ![Image](src)
-```
+如閣下仍然執意決定要觀看，請閣下自行承受觀看後的後果。若有任何不適症狀，請立刻停止觀看並及時向醫師尋求幫助。 
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+### 联系方式
+Telegram：
+邮箱：
+Twitter：
+如有视频资源话请联系，有偿，感谢。
+### 以下广告区
 
-### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/scamisnine/Lost-VIdeo/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+#### 祝您观看愉快
