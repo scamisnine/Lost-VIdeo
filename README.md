@@ -2,13 +2,9 @@
 <h1 style="text-align: center">Lost-Videos</h1>
 <hr />
 <p style="text-align: left; color: #FF0004;"><strong>嘤嘤嘤</strong></p>
+<strong>你好，欢迎来访</strong></p>
 <blockquote>
-  
-<p style="text-align: left; color: #FF0014;"><strong>你好，欢迎来访</strong></p>
-<blockquote>
-
 本站分为三个大区
-
 <p style="text-align: left"><strong>重口区</strong></p>
 <blockquote>
    
@@ -17,10 +13,8 @@
   <p style="text-align: left"><a href="../vid/10492/Others/STORY.mp4">化物语</a></p>
   <p style="text-align: left"><a href="../vid/10492/Others/M.mp4">教主的客串</a></p>
   <p style="text-align: left"><a href="../vid/10492/Others/ASTYLE.mp4">a风</a></p>
-<blockquote>
  
 <p style="text-align: left"><strong>整活区</strong></p>
-<blockquote>
 
 <p style="text-align: left"><strong>猎奇区</strong></p>
 <blockquote>
@@ -38,20 +32,20 @@
   <p style="text-align: left"><a href="../vid/10492/Others/DGRMT.mp4">危险的久本</a></p>
   <p style="text-align: left"><a href="../vid/10492/Others/WPA.mp4">武器A</a></p>
 </blockquote>
-<p style="text-align: left"><strong>猎奇视野作</strong></p>
+<strong>猎奇视野作</strong></p>
 <blockquote>
   <p style="text-align: left"><a href="../vid/10492/Others/SM6.mp4">sm666风格</a></p>
   <p style="text-align: left"><a href="../vid/10492/Others/INTENPHO.mp4">密集排布</a></p>
   <p style="text-align: left"><a href="../vid/10492/Others/BRAWASH.mp4">伪洗脑</a></p>
 </blockquote>
-<p style="text-align: left"><strong>意义元素</strong></p>
+<strong>意义元素</strong></p>
 <blockquote>
   <p style="text-align: left"><a href="../vid/10492/Others/FRCFRIES.mp4">背后灵薯条</a></p>
   <p style="text-align: left"><a href="../vid/10492/Others/REDBRUSH.mp4">红色刷牙</a></p>
   <p style="text-align: left"><a href="../vid/10492/Others/SXMOTOCT.mp4">交配续</a></p>
 </blockquote>
 
-<p style="text-align: left"><strong>阅览本站注意以下规则</strong></p>
+<strong>阅览本站注意以下规则</strong></p>
 <blockquote>
 
 
@@ -62,7 +56,7 @@
 
 如閣下仍然執意決定要觀看，請閣下自行承受觀看後的後果。若有任何不適症狀，請立刻停止觀看並及時向醫師尋求幫助。 
 
-<p style="text-align: left"><strong>联系方式</strong></p>
+<strong>联系方式</strong></p>
 <blockquote>
 
   Telegram：  <p style="text-align: left"><a href="">xxx</a></p>
@@ -77,5 +71,6 @@ Twitter： <p style="text-align: left"><a href="">xxx</a></p>
 
 
 
-<p style="text-align: left; color: #FF0014;"><strong>祝您观看愉快</strong></p>
+<p style="text-align: right; color: #FF0014;"><strong>祝您观看愉快</strong></p>
 <blockquote>
+  </html>
