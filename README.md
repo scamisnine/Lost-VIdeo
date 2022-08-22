@@ -4,20 +4,27 @@
 <p style="text-align: left; color: #FF0004;"><strong>嘤嘤嘤</strong></p>
 <blockquote>
   
- ### 你好，欢迎来访
+<p style="text-align: left; color: #FF0014;"><strong>你好，欢迎来访</strong></p>
+<blockquote>
 
 本站分为三个大区。
 
-## 重口区
+<p style="text-align: left"><strong>重口区</strong></p>
+<blockquote>
+   
 <p style="text-align: left"><a href="../vid/10492/Others/RZ_0721.mp4">RZ 0721</a></p>
   <p style="text-align: left"><a href="../vid/10492/Others/MIKUONION.mp4">miku葱</a></p>
   <p style="text-align: left"><a href="../vid/10492/Others/STORY.mp4">化物语</a></p>
   <p style="text-align: left"><a href="../vid/10492/Others/M.mp4">教主的客串</a></p>
   <p style="text-align: left"><a href="../vid/10492/Others/ASTYLE.mp4">a风</a></p>
 <blockquote>
-  ## 整活区
+ 
+<p style="text-align: left"><strong>整活区</strong></p>
+<blockquote>
 
-## 猎奇区
+<p style="text-align: left"><strong>猎奇区</strong></p>
+<blockquote>
+  
  <p style="text-align: left">P1 <a href="../vid/10492/01.mp4">起源</a></p>
   <p style="text-align: left">P2 <a href="../vid/10492/02.mp4">久本薯条 (第一集)</a> <a href="../vid/10492/02-1.mp4">(第二集)</a></p>
   <p style="text-align: left">P3 <a href="../vid/10492/03.mp4">全员猎奇 (第一集)</a> <a href="../vid/10492/03-1.mp4">(第二集)</a></p>
@@ -44,27 +51,31 @@
   <p style="text-align: left"><a href="../vid/10492/Others/SXMOTOCT.mp4">交配续</a></p>
 </blockquote>
 
+<p style="text-align: left"><strong>阅览本站注意以下规则</strong></p>
+<blockquote>
 
-### 阅览本站注意以下规则
 
 
-## 观看猎奇，重口视频注意（官方聲明）
+观看猎奇，重口视频注意（雾）
 
 請注意，视频的內容過於重口味，可能會使人產生惡心、頭暈等不適症狀，亦有可能使閣下情緒有負面影響，因此我們認為這個视频不適合任何人仕觀看。
 
 如閣下仍然執意決定要觀看，請閣下自行承受觀看後的後果。若有任何不適症狀，請立刻停止觀看並及時向醫師尋求幫助。 
 
-### 联系方式
+<p style="text-align: left"><strong>联系方式</strong></p>
+<blockquote>
 
-Telegram：
+  Telegram：  <p style="text-align: left"><a href="">xxx</a></p>
 
-邮箱：
+邮箱： <p style="text-align: left"><a href="">xxx</a></p>
 
-Twitter：
+Twitter： <p style="text-align: left"><a href="">xxx</a></p>
 
-# 如有视频资源话请联系，有偿，感谢。
-### 以下广告区
+ 如有视频资源话请联系，有偿，感谢。
+<p style="text-align: left; color: #FF0014;"><strong>以下广告区</strong></p>
+<blockquote>
 
 
 
-#### 祝您观看愉快
+<p style="text-align: left; color: #FF0014;"><strong>祝您观看愉快</strong></p>
+<blockquote>
