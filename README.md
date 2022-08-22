@@ -68,6 +68,6 @@ Twitter： <p style="text-align: left"><a href="">xxx</a></p>
 <p style="text-align: left; color: #FF0014;"><strong>以下广告区</strong></p>
 <blockquote>
 
-<pstyle="text-align: right; color: #FF0014;"><strong>祝您观看愉快</strong></p>
+<strong>祝您观看愉快</strong></p>
 <blockquote>
 
