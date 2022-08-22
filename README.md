@@ -7,7 +7,7 @@
 <p style="text-align: left; color: #FF0014;"><strong>你好，欢迎来访</strong></p>
 <blockquote>
 
-本站分为三个大区。
+本站分为三个大区
 
 <p style="text-align: left"><strong>重口区</strong></p>
 <blockquote>
