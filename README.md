@@ -1,13 +1,48 @@
-## 你好，欢迎来访
+<body bgcolor="#014D50" text="#FFFFFF" link="#B7CEFF">
+<h1 style="text-align: center">Lost-Videos</h1>
+<hr />
+<p style="text-align: left; color: #FF0004;"><strong>av10492</strong></p>
+<blockquote>
+  
+ ### 你好，欢迎来访
 
 本站分为三个大区。
 
 ## 重口区
-
-## 整活区
+<p style="text-align: left"><a href="../vid/10492/Others/RZ_0721.mp4">RZ 0721</a></p>
+  <p style="text-align: left"><a href="../vid/10492/Others/MIKUONION.mp4">miku葱</a></p>
+  <p style="text-align: left"><a href="../vid/10492/Others/STORY.mp4">化物语</a></p>
+  <p style="text-align: left"><a href="../vid/10492/Others/M.mp4">教主的客串</a></p>
+  <p style="text-align: left"><a href="../vid/10492/Others/ASTYLE.mp4">a风</a></p>
+<blockquote>
+  ## 整活区
 
 ## 猎奇区
-# すばらしきオチョ人生(part1http://6o2.cn/1j05Ls) 
+ <p style="text-align: left">P1 <a href="../vid/10492/01.mp4">起源</a></p>
+  <p style="text-align: left">P2 <a href="../vid/10492/02.mp4">久本薯条 (第一集)</a> <a href="../vid/10492/02-1.mp4">(第二集)</a></p>
+  <p style="text-align: left">P3 <a href="../vid/10492/03.mp4">全员猎奇 (第一集)</a> <a href="../vid/10492/03-1.mp4">(第二集)</a></p>
+  <p style="text-align: left">P4 <a href="../vid/10492/04.mp4">哦做哦做</a></p>
+  <p style="text-align: left">P5 <a href="../vid/10492/05.mp4">久本杂交 (第一集)</a> <a href="../vid/10492/05-1.mp4">(第二集)</a></p>
+  <p style="text-align: left">P6 <a href="../vid/10492/06.mp4">益虫观察 (第一集)</a> <a href="../vid/10492/06-1.mp4">(第二集)</a></p>
+  <p style="text-align: left">P7 <a href="../vid/10492/07.mp4">喷血</a></p>
+  <p style="text-align: left">P8 <a href="../vid/10492/08.mp4">超级变变变</a></p>
+  <p style="text-align: left">&nbsp;</p>
+ <p style="text-align: left"><a href="../vid/10492/Others/AIRMT.mp4">不可视久本 ～ Airmoto of Frenzy</a></p>
+  <p style="text-align: left"><a href="../vid/10492/Others/DGRMT.mp4">危险的久本</a></p>
+  <p style="text-align: left"><a href="../vid/10492/Others/WPA.mp4">武器A</a></p>
+</blockquote>
+<p style="text-align: left"><strong>猎奇视野作</strong></p>
+<blockquote>
+  <p style="text-align: left"><a href="../vid/10492/Others/SM6.mp4">sm666风格</a></p>
+  <p style="text-align: left"><a href="../vid/10492/Others/INTENPHO.mp4">密集排布</a></p>
+  <p style="text-align: left"><a href="../vid/10492/Others/BRAWASH.mp4">伪洗脑</a></p>
+</blockquote>
+<p style="text-align: left"><strong>意义元素</strong></p>
+<blockquote>
+  <p style="text-align: left"><a href="../vid/10492/Others/FRCFRIES.mp4">背后灵薯条</a></p>
+  <p style="text-align: left"><a href="../vid/10492/Others/REDBRUSH.mp4">红色刷牙</a></p>
+  <p style="text-align: left"><a href="../vid/10492/Others/SXMOTOCT.mp4">交配续</a></p>
+</blockquote>
 
 
 ### 阅览本站注意以下规则
