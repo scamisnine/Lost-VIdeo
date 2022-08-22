@@ -64,13 +64,10 @@
 邮箱： <p style="text-align: left"><a href="">xxx</a></p>
 
 Twitter： <p style="text-align: left"><a href="">xxx</a></p>
-
- 如有视频资源话请联系，有偿，感谢。
+如有视频资源话请联系，有偿，感谢。
 <p style="text-align: left; color: #FF0014;"><strong>以下广告区</strong></p>
 <blockquote>
 
-
-
-<p style="text-align: right; color: #FF0014;"><strong>祝您观看愉快</strong></p>
+<pstyle="text-align: right; color: #FF0014;"><strong>祝您观看愉快</strong></p>
 <blockquote>
-  </html>
+
